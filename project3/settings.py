@@ -79,7 +79,11 @@ WSGI_APPLICATION = 'project3.wsgi.application'
 DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'ciba',
+        'NAME': 'dk4d7v2ldp7ls',
+        'USER': 'psfmmfyztkrikg',
+        'PASSWORD': '64a2bb25580848862673479ab16ddd819ce59011182f4929868f33b1dbffe29e',
+        'HOST': 'ec2-34-206-31-217.compute-1.amazonaws.com',
+        'PORT': '5432',
         }
     }
 
